@@ -1,7 +1,3 @@
-; Programa en TASM que determina si 17 es primo
-; Compilar con: tasm primo.asm
-; Enlazar con: tlink primo.obj
-
 .MODEL small           ; Define un modelo de memoria peque?o (c?digo y datos <64 KB)
 .STACK 100h            ; Reserva 256 bytes para la pila
 .DATA
