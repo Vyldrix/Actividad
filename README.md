@@ -1,10 +1,10 @@
 # Actividad de Programación en Assembly
 
-## Información del Proyecto
+## Información del Proyecto (se encuenctra en la rama suma-digitos el trabajo de Uziel)
 
 **Materia:** Arquitectura de Computadoras / Programación en Assembly  
 **Fecha:** 08-10-2025  
-**Integrantes:** Lautaro, Noel
+**Integrantes:** Lautaro, Noel, Uziel
 
 ---
 
